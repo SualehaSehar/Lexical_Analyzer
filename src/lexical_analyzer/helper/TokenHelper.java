@@ -480,12 +480,12 @@ public class TokenHelper {
             input = br.readLine();
             boolean flag;
             while (input != null) {
-                System.out.println(input);
+                //System.out.println(input);
                 index = 0;
-                System.out.println(input.length());
+                //System.out.println(input.length());
                 while (index < input.length()) {
                     arr = wordBreaker(input, index);
-                    System.out.println("------ " + arr[0] + " " + arr[1]);
+                    //System.out.println("------ " + arr[0] + " " + arr[1]);
                     index = Integer.valueOf(arr[1]);
                     word = arr[0];
                     char ch = word.charAt(0);

@@ -1,37 +1,99 @@
-final class a{
-public static void main(){
-new obj(u,9).fn();
-new obj(u,9).fn().new obj().a[i]=5;
-a = new obj(u,9).fn();
-`a[i];
-`f()=a;
-`float b=x,d=c=5=x,z;
-a=b[i]=c;
-a=a[i];
-a=b;
-a=f().a;
-f().a=b;
-int a,b=c=d=5,x=d;
-a.b=5;
-a.b.c=5;
-f().b=5;
-a.f().b=5;
-a.b.f().f().x=5;
-a[i]=6;
-a.a[i]=5;
-a=f();
-a=b().f().a.a[i].a.f().b;
-a=f().a=b;
-a.a[i].x=5;
-a.a[i].f().x=5;
-this.b(2+5,v).a[i].b();
-this.b(2+5,v).a[i]=5;
-super.b(2+5,v).a[i].b().a = this.a.b.fn();
-int c = a+b;
-int d = new obj(u,9);
-c[i][j] = new obj(u,9);
-c[i] = new obj(u,9);
+class a{
+	RT b=new RT(), c, a[]={}, k[], t = new RT();  
+	RT b=new RT(this.a.b.fn(fn().arr[4],x-45,65));
+	int a,b=c=d=5,x=d;
+
+	`new obj(u,9).fn();
+	`a = new obj();
+
+	public static void main(){
+                a();
+		RT b=new RT(), c, a[]={}, k[], t = new RT();  
+		RT b=new RT();
+		new obj(u,9).fn();
+		new obj(u,9).fn().new obj().a[i]=5;
+		a = new obj(u,9).fn();
+		a = new obj();
+
+		`a[i];
+		`f()=a;
+		`float b=x,d=c=5=x,z;
+
+		a=b[i]=c;
+		a=a[i];
+		a=b;
+		a=f().a;
+		f().a=b;
+		int a,b=c=d=5,x=d;
+		a.b=5;
+		a.b.c=5;
+		f().b=5;
+		a.f().b=5;
+		a.b.f().f().x=5;
+		a[i][a.b.f().f().x-34].fn=6;
+		a.a[i]=5;
+		a=f();
+		a=b().f().a.a[i].a.f().b;
+		a=f().a=b;
+		a.a[i].x=5;
+		a.a[i].f().x=5;
+		this.b(2+5,v).a[i].b();
+		this.b(2+5,v).a[i]=5;
+		super.b(2+5,v).a[i].b().a = this.a.b.fn()-56*a/3;
+		int c = a+b;
+		int d = new obj(u,9);
+		c[i][j] = new obj(u,9);
+		c[i] = new obj(u,9);
+		a = new stud();
+		stud a[];
+		gh(a[0]);
+		gh(a+a.a[0][8]+d().a+g(a[1].a(5)));
+		String a[]={"tooba","sdddd"};
+		int a[]=new int[4];
+		if(a[i]>max){}
+		a[2][1]=a.l();
+		min = array[0];
+	}
+
+	int a=a;
+	float a=a;
+
+	void func fn( int a, float b){}	void func fn( int a, float b){}
+	RT b=new RT(), c, a[]={}, k[], t = new RT();  
+	RT b=new RT(this.a.b.fn(fn().arr[4],x-45,65));
+	int a,b=c=d=5,x=d;
+
+	void func fn( int a, float b){}
+
 }
-int a=a;
-float a=a;
+abstract class A inherit A,B,c
+{
+	int a=a;
+	float a=a;
+
+	void func fn( int a, float b){}	void func fn( int a, float b){}
+	RT b=new RT(), c, a[]={}, k[], t = new RT();  
+	RT b=new RT(this.a.b.fn(fn().arr[4],x-45,65));
+	int a,b=c=d=5,x=d;
+
+	abstract void func fn( int a, float b);
+
+
+
+}
+
+class A inherit A,B,c
+{
+	int a=a;
+	float a=a;
+
+	void func fn( int a, float b){}	void func fn( int a, float b){}
+	RT b=new RT(), c, a[]={}, k[], t = new RT();  
+	RT b=new RT(this.a.b.fn(fn().arr[4],x-45,65));
+	int a,b=c=d=5,x=d;
+
+	void func fn( int a, float b){}
+
+
+
 }

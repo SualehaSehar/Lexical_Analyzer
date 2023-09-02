@@ -1,0 +1,87 @@
+class k{
+
+}
+
+class X inherit k {   
+        public int a;
+	public void func s1()
+{
+
+}
+
+}
+class A { 
+    public int f;
+int d[]={1,2,3};
+    public int func sum1(){  
+        int a;
+	a = 2;
+    return a;
+    }       
+public X func s1()
+{
+X o;
+return o;
+}
+
+    public X func s2(){  
+        X t = new X();
+    return t;
+    }           
+}
+
+class B inherit A {    
+        public int func sum1(){           
+		return 1;
+	}  
+}
+class C inherit B,X {    
+        public A l = new A();
+        public int func sum9(){ 
+             `   super.sum();         
+		return 1;
+	}
+}
+
+class F {   `10 scope
+        `static F(){} 
+
+        X r = new X();
+        public C a = new C();
+        private final static int q = 2;
+        `A l = new C();
+        A c = new C();
+        final B o = new B();
+        
+        
+	private bool func sum5(int[][] b,B j,int k){   `11 scope
+                this.a.l.s2().a = 1;  
+                this.a.l.s1().a = 1;  
+                int ll;
+                ll = this.a.l.s1().a;
+                ll = this.a.l.sum1() ;
+                this.a.l.f = 1;
+                ll = c.f ; 
+int r;
+r.x=6;
+                c.f = 2;
+
+                loop(this.a.l.s1().a *this.a.l.sum1() - 56 ){
+                    ll=1;
+                }
+
+		return false;
+	} 
+
+        private void func f(){
+                int a = 2;
+		`return false;
+	}
+        
+}
+<-
+abstract class Coo inherit A {    
+        `int a = b;
+	abstract bool func sum(F[] j,int k,int[][] b);
+}
+->

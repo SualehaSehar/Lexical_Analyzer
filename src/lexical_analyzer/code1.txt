@@ -1,5 +1,27 @@
-final class B inherit A{
-	 public static void func origin(){
+abstract class B inherit A {
+
+	int func a(int[] a , int a , a a ,int a, float b){
+
+		int a=2;
+		int a[]={1,2,3,4,5};
+		return a;
+	} 
+
+	int[][][] func a(int[][] a , bool a){
+
+		int a=2;int b[][]; int c[][][];
+		int a[]={1,2,3,4,5};
+		return a;} 
+
+	void func v(){
+		int a[][]={{1},{1}};
+		int a[][][]={{{1,2,3,4},{1}}};
+
+		}
+
+
+	int a[] = {1,u};
+	public static void func origin(){
 		try{}
 		catch(Exception ex){
 			if(a<b) 
@@ -16,11 +38,19 @@ final class B inherit A{
 		}
 	}
 
-public final static  int c[][] = {{2,3},{3,2}}, b[] = new int[i+i];
+	abstract public int[] func a();
+
+	public final static  int c[][] = {{2,3},{3,2}}, b[] = new int[i+i];
+
+	public final static  int c[][][] = {{{2},{3}},{{3},{2}}}, b[] = {2},c[][] = {{2,3},{3,2}};
+
 	private static int[][] func add(int[][] a, int b){
-		
+		loop(true){
+		}		
 	} 
 }
+
+
 
 
 class C {
@@ -29,42 +59,18 @@ class C {
 	} 
 }
 
+
+
 final class a{
-a(){}
+        a(){}
 	public static void main(){
-fn();
+        fn();
 	int a=2; int a=2;
-	float b=d;
-}
-}
-final class a{
-	void func f(int a, float b){}
-	int a=2; int a=2;
-	float b=d;
-	
-}
- final class B inherit A{
-	public final static  int c[][][] = {{{2},{3}},{{3},{2}}}, b[] = {2};
-	private static int[][] func add(int[][] a, int b){
-		int c = a+b;
-	} 
-
-	 public static void func origin(){
-		try{}
-		catch(Exception ex){
-			if(a<b) 
-				loop(true){
-				}
-			else{}
-			 
-
-		}
+	float b=d;	
+	}
+	void func f(int a, float b){
 	}
 }
 
 
-class C {
-	 bool func sum(){
-		return a+b;
-	} 
-}
+
