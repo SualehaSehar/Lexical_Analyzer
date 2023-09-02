@@ -1,2 +1,70 @@
-"hello\"hello"
-"hello\\\"hello"
+final class B inherit A{
+	 public static void func origin(){
+		try{}
+		catch(Exception ex){
+			if(a<b) 
+				loop(true){
+					continue;
+				}
+			else{}
+			 
+
+		}catch(Exception ex){
+			
+		}finally{
+			
+		}
+	}
+
+public final static  int c[][] = {{2,3},{3,2}}, b[] = new int[i+i];
+	private static int[][] func add(int[][] a, int b){
+		
+	} 
+}
+
+
+class C {
+	private bool func sum(){
+		return a+b;
+	} 
+}
+
+final class a{
+a(){}
+	public static void main(){
+fn();
+	int a=2; int a=2;
+	float b=d;
+}
+}
+final class a{
+	void func f(int a, float b){}
+	int a=2; int a=2;
+	float b=d;
+	
+}
+ final class B inherit A{
+	public final static  int c[][][] = {{{2},{3}},{{3},{2}}}, b[] = {2};
+	private static int[][] func add(int[][] a, int b){
+		int c = a+b;
+	} 
+
+	 public static void func origin(){
+		try{}
+		catch(Exception ex){
+			if(a<b) 
+				loop(true){
+				}
+			else{}
+			 
+
+		}
+	}
+}
+
+
+class C {
+	 bool func sum(){
+		return a+b;
+	} 
+}
