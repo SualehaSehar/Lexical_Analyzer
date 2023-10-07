@@ -4,7 +4,7 @@ Main Folder : /src/main
 
 Some example input and output files are included.
 
-Detials:
+Details:
 
 . Implemented three phases of compiler (Lexical, Syntax, Semantics)
 
